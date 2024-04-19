@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: app.AbrigoCanino.service.CachorroServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.260 s -- in app.AbrigoCanino.service.CachorroServiceTest
